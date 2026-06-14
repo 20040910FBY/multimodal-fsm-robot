@@ -7,7 +7,6 @@ An advanced, multi-modal autonomous mobile robot integrating high-frequency line
 ## 📌 Project Overview 
 
 * **Role **: Project Leader 
-* **Timeline** : 2024.3 - 2024.9
 * **Description **:
   * **EN**: Designed and implemented an end-to-end autonomous navigation and control framework for robotic platforms operating in unstructured or adversarial environments. The system resolves common edge-case failures—such as structural track derailment, light interference oscillation, and local kinematic deadlocks—by fusing asynchronous ADC multi-channel data, deploying dual-channel decoupled controllers, and orchestrating a fault-tolerant heuristic FSM decision engine.
 
