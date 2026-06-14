@@ -1,0 +1,24 @@
+# Arduino 编译生成的临时文件和输出文件
+*.elf
+*.hex
+*.eep
+*.bin
+*.map
+build/
+.build/
+
+# 如果你未来使用 VS Code (PlatformIO) 开发，忽略这些工作区配置
+.vscode/
+.pio/
+*.code-workspace
+
+# 操作系统生成的隐藏垃圾文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
